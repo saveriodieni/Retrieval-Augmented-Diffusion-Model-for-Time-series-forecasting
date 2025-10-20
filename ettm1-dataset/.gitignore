@@ -1,3 +1,5 @@
-ETTm1.csv
+data/*
 models/*
-var/*
+estimators/*.pth
+autoencoder/encoder.pth
+alt/*
