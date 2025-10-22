@@ -2,4 +2,4 @@ data/*
 models/*
 estimators/*.pth
 autoencoder/encoder.pth
-alt/*
+old_versions/*
