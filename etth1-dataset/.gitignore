@@ -1,0 +1,5 @@
+data/*
+models/*
+estimators/*.pth
+autoencoder/encoder.pth
+old_versions/*
